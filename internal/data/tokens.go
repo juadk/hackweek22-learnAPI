@@ -8,7 +8,7 @@ import (
 	"encoding/base32"
 	"time"
 
-	"github.com/juadk/hackweek23-learnAPI/internal/validator"
+	"github.com/juadk/hackweek22-learnAPI/internal/validator"
 )
 
 const (

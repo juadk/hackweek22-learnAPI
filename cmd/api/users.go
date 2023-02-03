@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/juadk/hackweek23-learnAPI/internal/data"
-	"github.com/juadk/hackweek23-learnAPI/internal/validator"
+	"github.com/juadk/hackweek22-learnAPI/internal/data"
+	"github.com/juadk/hackweek22-learnAPI/internal/validator"
 )
 
 func (app *application) registerUserHandler(w http.ResponseWriter, r *http.Request) {

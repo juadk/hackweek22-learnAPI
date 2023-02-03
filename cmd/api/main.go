@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/juadk/hackweek23-learnAPI/internal/data"
-	"github.com/juadk/hackweek23-learnAPI/internal/jsonlog"
-	"github.com/juadk/hackweek23-learnAPI/internal/mailer"
-	"github.com/juadk/hackweek23-learnAPI/internal/vcs" // New import
+	"github.com/juadk/hackweek22-learnAPI/internal/data"
+	"github.com/juadk/hackweek22-learnAPI/internal/jsonlog"
+	"github.com/juadk/hackweek22-learnAPI/internal/mailer"
+	"github.com/juadk/hackweek22-learnAPI/internal/vcs" // New import
 
 	_ "github.com/lib/pq"
 )

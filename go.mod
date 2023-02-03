@@ -1,4 +1,4 @@
-module github.com/juadk/hackweek23-learnAPI
+module github.com/juadk/hackweek22-learnAPI
 
 go 1.19
 
