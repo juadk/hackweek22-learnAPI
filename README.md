@@ -1,4 +1,7 @@
-![Hackweek10_1](https://user-images.githubusercontent.com/6025636/216646365-38995c61-41bd-4bc7-b543-c966c87b8c3d.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6025636/216678394-28c530cb-f762-474d-8fb4-447f28dfbfff.png" alt="Sublime's custom image"/>
+</p>
+
 
 # hackweek22-learnAPI
 
