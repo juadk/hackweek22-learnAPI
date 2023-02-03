@@ -1,6 +1,8 @@
-# hackweek23-learnAPI
+![Hackweek10_1](https://user-images.githubusercontent.com/6025636/216646365-38995c61-41bd-4bc7-b543-c966c87b8c3d.png)
 
-## Goal
+# hackweek22-learnAPI
+
+## Goals
 1. Keep learning Golang by reading/writing a book about Golang API.
 
     Feature of the API is to retrieve and manage information about movies, these are endpoints and actions:
@@ -21,7 +23,7 @@
         | GET     | /debug/vars               | Display applications metrics                    |
 
 2. Add API testing (Cypress / Ginkgo)
-   * Build fake DB with data set
+   * Build fake DB with data set and load API tests
   
 3. Create a UI (next hackweek? :-) )
     * Vue 3 + bootstrap css
