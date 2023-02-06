@@ -27,6 +27,8 @@
 
 2. Add API testing (Cypress / Ginkgo)
    * Build fake DB with data set and load API tests
+   
+3. Add CI with Github Actions
   
-3. Create a UI (next hackweek? :-) )
+4. Create a UI (next hackweek? :-) )
     * Vue 3 + bootstrap css
